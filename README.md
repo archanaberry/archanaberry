@@ -1,14 +1,14 @@
 [![I-Stand-With-Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://arab.org/portal/palestine/where-to-donate/)
 
-# Hello, I'm ZTRdiamond!
+# Halo, aku Archana Berry Chan!
 <a href="https://discord.com/users/1136691684864954389" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
  
-*The rainy weather was very relaxing.*
+*The berries my favorite fruits ^^.*
 
 <hr> 
 
 ### Skills:
-![Skills](https://skillicons.dev/icons?i=js,html,css,react,express&theme=dark)
+![Skills](https://skillicons.dev/icons?i=asm,c,cpp,html,css,js&theme=dark)
 
 <hr>
 
