@@ -1,10 +1,15 @@
 [![I-Stand-With-Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://arab.org/portal/palestine/where-to-donate/)
 
 # Halo, aku Archana Berry Chan!
-[![Archana Berry](discord.html)](discord.html)
 
-<p align="left">
-<a href="[https://widgets.vendicated.dev/user?id=1136691684864954389&theme=light&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23bA82C6&foreground-color=%23000000)]" target="blank"></a>
+<iframe
+    title="Discord user embed"
+    width="340"
+    height="72"
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=1136691684864954389&theme=light&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23bA82C6&foreground-color=%23000000">
+</iframe>
 
 *The berries my favorite fruits ^^.*
 
