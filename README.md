@@ -15,8 +15,8 @@
 <a href="https://twitter.com/archanaberry101" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="archanaberry101" height="50" width="50" /></a>
 <a href="https://facebook.com/archanaberry101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="archanaberry" height="50" width="50" /></a>
 <a href="https://instagram.com/archanaberry101" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="archanaberry101" height="50" width="50" /></a>
-<a href="https://www.youtube.com/archanaberry101" target="blank"><img align="center" src="https://pomf2.lain.la/f/z3vxfewb.png" alt="archanaberry101" height="50" width="50" /></a>
-<a href="https://discord.com/users/1136691684864954389" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Archana Berry ID" height="50" width="50" /></a>
+<a href="https://www.youtube.com/archanaberry101" target="blank"><img align="center" src="https://pomf2.lain.la/f/z3vxfewb.png" alt="Archana Berry ID" height="50" width="50" /></a>
+<a href="https://discord.com/users/1136691684864954389" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="archanaberry101" height="50" width="50" /></a>
 <a href="https://wa.me/6289667958991" target="blank"><img align="center" src="https://pomf2.lain.la/f/v4npl8n1.png" alt="Archana Berry Developer" height="50" width="50" style="margin-left: -10"/></a>
 </p>
 
