@@ -2,18 +2,7 @@
 
 # Halo, aku Archana Berry Chan!
 
-<iframe
-    title="Discord user embed"
-    width="340"
-    height="72"
-    frameborder="0"
-    sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=1136691684864954389&theme=light&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23bA82C6&foreground-color=%23000000">
-</iframe>
-
 *The berries my favorite fruits ^^.*
-
-<hr> 
 
 ### Skills:
 ![Skills](https://skillicons.dev/icons?i=assembly,c,cpp,html,css,js&theme=dark)
