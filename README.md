@@ -4,7 +4,7 @@
 [![Archana Berry](discord.html)](discord.html)
 
 <p align="left">
-<a href="[https://twitter.com/archanaberry101](https://widgets.vendicated.dev/user?id=1136691684864954389&theme=light&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23bA82C6&foreground-color=%23000000)" target="blank"></a>
+<a href="[https://widgets.vendicated.dev/user?id=1136691684864954389&theme=light&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23bA82C6&foreground-color=%23000000)@]" target="blank"></a>
 
 *The berries my favorite fruits ^^.*
 
