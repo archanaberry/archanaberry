@@ -2,7 +2,19 @@
 
 # Halo, aku Archana Berry Chan!
 [![Archana Berry](discord.html)](discord.html)
- 
+
+<html>
+<head></head>
+<script src="/eruda.min.js"></script>
+<style type="text/css"></style>
+<script></script>
+<style type="text/css"></style>
+</head>
+<body></body>
+<iframe title="Discord user embed" width="340" height="72" frameborder="0" sandbox="allow-scripts" src="https://widgets.vendicated.dev/user?id=1136691684864954389&theme=light&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23bA82C6&foreground-color=%23000000"></iframe>
+</body>
+</html>
+
 *The berries my favorite fruits ^^.*
 
 <hr> 
