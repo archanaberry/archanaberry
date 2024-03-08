@@ -1,7 +1,7 @@
 [![I-Stand-With-Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://arab.org/portal/palestine/where-to-donate/)
 
 # Halo, aku Archana Berry Chan!
-<a href="https://discord.com/users/1136691684864954389" target="_blank"><img align="center"  src="src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
+<a href="https://discord.com/users/1136691684864954389" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
  
 *The berries my favorite fruits ^^.*
 
