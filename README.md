@@ -6,7 +6,7 @@
 *The berries my favorite fruits ^^.*
 
 ### Skills:
-![Skills](https://skillicons.dev/icons?i=wasm,c,cpp,html,css,js&theme=dark)
+![Skills](https://skillicons.dev/icons?i=wasm,c,cpp,html,css,js,discord,discordbot&theme=dark)
 
 <hr>
 
