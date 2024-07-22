@@ -4,9 +4,9 @@
 ![Archana Berry's Doll | Don't download it!!!](archanaberrydoll.png)
 ![Archana Berry Mini PC's](archanaberrypc.png)
 
-# Halo, aku Archana Berry Chan!
+# Hello everyone, i'am Archana Berry Chan!
 
-*The berries my favorite fruits ^^.*
+*The all berries my favorite fruits ^^.*
 
 ### Skills:
 ![Skills](https://skillicons.dev/icons?i=wasm,c,cpp,cmake,html,css,js,discord,discordbots,nodejs,kotlin,vscode,arch,windows,apple,neovim&theme=dark)
