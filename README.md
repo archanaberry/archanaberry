@@ -8,6 +8,7 @@
   <img src="archanaberrydoll.png" align="left" alt="Archana Berry's Doll | Don't download it!!!" width="400" height="400">
   <img src="archanaberrypc.png" align="right" alt="Archana Berry Mini PC's" width="400" height="284">
 </div>
+</div>
 
 <h1>Hello everyone, I'm Archana Berry Chan!</h1>
 <p><em>The all berries my favorite fruits ^^.</em></p>
