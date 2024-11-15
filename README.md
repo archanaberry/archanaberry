@@ -2,7 +2,7 @@
 [![I-Stand-With-Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://arab.org/portal/palestine/where-to-donate/)
 
 <img src="archanaberrydoll.png" alt="Archana Berry's Doll | Don't download it!!!" width="400" height="400" />
-<img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="400" height="400" />
+<img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="400" height="284" />
 
 # Hello everyone, i'am Archana Berry Chan!
 
