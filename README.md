@@ -4,10 +4,9 @@
   <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="I-Stand-With-Palestine">
 </a>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="archanaberrydoll.png" align="left" alt="Archana Berry's Doll | Don't download it!!!" width="400" height="400">
-  <img src="archanaberrypc.png" align="right" alt="Archana Berry Mini PC's" width="400" height="284">
-</div>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img src="archanaberrydoll.png" alt="Archana Berry's Doll | Don't download it!!!" width="400" height="400" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
+  <img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="400" height="284" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
 </div>
 
 <h1>Hello everyone, I'm Archana Berry Chan!</h1>
