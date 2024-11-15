@@ -1,8 +1,12 @@
 ![Archana Berry vtuber logo's | Don't inspo and copycat and use it!!!](archanaberryw.png)
 [![I-Stand-With-Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://arab.org/portal/palestine/where-to-donate/)
 
+<div style="text-align: left;">
 <img src="archanaberrydoll.png" alt="Archana Berry's Doll | Don't download it!!!" width="400" height="400" />
+</div>
+<div style="text-align: right;">
 <img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="400" height="284" />
+</div>
 
 # Hello everyone, i'am Archana Berry Chan!
 
