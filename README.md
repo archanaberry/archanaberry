@@ -5,7 +5,7 @@
 </a>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="archanaberrydoll.png" alt="Archana Berry's Doll | Don't download it!!!" width="400" height="400" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
+  <img src="archanaberrydoll.png" alt="Archana Berry's Doll | Don't download it!!!" width="300" height="300" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
   <img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="400" height="284" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
 </div>
 
