@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <img src="archanaberrydoll.png" alt="Archana Berry's Doll | Don't download it!!!" width="300" height="300" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
-  <img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="200" height="71" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
+  <img src="archanaberrypc.png" alt="Archana Berry Mini PC's" width="100" height="71" style="flex: 1 1 45%; max-width: 400px; margin: 10px;">
 </div>
 
 <h1>Hello everyone, I'm Archana Berry Chan!</h1>
