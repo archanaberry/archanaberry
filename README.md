@@ -13,7 +13,7 @@
 <p><em>The all berries my favorite fruits ^^.</em></p>
 
 <h3>Skills:</h3>
-<img src="https://skillicons.dev/icons?i=wasm,c,cpp,cmake,html,css,js,discord,discordbots,nodejs,kotlin,vscode,arch,windows,apple,neovim&theme=dark" alt="Skills">
+<img src="https://skillicons.dev/icons?i=wasm,c,cpp,rust,cmake,html,css,js,discord,discordbots,nodejs,kotlin,vscode,arch,windows,apple,neovim&theme=dark" alt="Skills">
 
 <hr>
 
