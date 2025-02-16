@@ -41,10 +41,12 @@
 
 <hr>
 
+<img src="archanaberrymy.png" alt="Archana Berry" width="60">
+
 <h3>Support Me On:</h3>
 <a href="https://trakteer.id/archana_berry" target="_blank">
   <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
 </a>
 
 <h3>Thank you for visiting my profile github UwU</h3>
-<img src="archanaberryhijabchibi.png" alt="Archana Berry Chibi Hijab">
+<img src="archanaberryhijabchibi.png" alt="Archana Berry Chibi Hijab" width="60">
