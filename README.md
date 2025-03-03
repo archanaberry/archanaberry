@@ -41,7 +41,7 @@
 
 <hr>
 
-<img src="archanaberrymy.png" alt="Archana Berry" width="800">
+<imgg src="archanaberrymy.png" alt="Archana Berry" width="800">
 
 <h3>Support Me On:</h3>
 <a href="https://trakteer.id/archana_berry" target="_blank">
