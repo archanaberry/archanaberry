@@ -13,7 +13,7 @@
 <p><em>The all berries my favorite fruits ^^.</em></p>
 
 <h1>Github Status</h1>
-https://github-readme-stats.vercel.app/api/?username=archanaberry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api/?username=archanaberry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Archana Berry GitHub Stats">
 
 <h3>Skills:</h3>
 <img src="https://skillicons.dev/icons?i=wasm,c,cpp,rust,cmake,html,css,js,discord,discordbots,nodejs,kotlin,vscode,arch,windows,apple,neovim&theme=dark" alt="Skills">
