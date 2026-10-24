@@ -53,4 +53,4 @@
 </a>
 
 <h3>Thank you for visiting my profile github UwU</h3>
-<img src="archanaberrykorporat.png" alt="Archana Berry Baju Kantor" width="60">
+<img src="archanaberrykorporat.png" alt="Archana Berry Baju Kantor" width="1200">
